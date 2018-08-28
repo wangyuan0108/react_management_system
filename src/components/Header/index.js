@@ -21,7 +21,7 @@ class Header extends Component {
                 sysTime
             });
         }, 1000);
-        this.getWeatherApiData();
+        // this.getWeatherApiData();
     }
     getWeatherApiData = () => {
         
