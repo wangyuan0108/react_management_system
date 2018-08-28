@@ -33,7 +33,7 @@ class NavLeft extends Component {
             <div>
                 <div className="logo">
                     <img src="/assets/logo-ant.svg" alt="" />
-                    <h1>Imooc MS</h1>
+                    <h1>报名学员管理系统</h1>
                 </div>
                 <Menu theme="dark">{this.state.menuTreeNode}</Menu>
             </div>
